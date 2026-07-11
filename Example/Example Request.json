@@ -1,0 +1,6 @@
+POST /products
+
+{
+    "name": "Gaming Laptop",
+    "price": 90000
+}
